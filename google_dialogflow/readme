@@ -3,4 +3,6 @@ the files here are used for dialogflow fulfillment section
 the index.js contains the main code whereas package.json consists the dependencies
 
 to run this program on google assisstant you would be requiring in upgrade in Google Project plan from Spark to Blaze
+Currently the agent is deployed on personal account. Please check the video for demonstration purpose
+
 
